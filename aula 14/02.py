@@ -1,0 +1,1 @@
+nomes = ["axl rose","chorão","james hetfild","ozzy osbourne"]
